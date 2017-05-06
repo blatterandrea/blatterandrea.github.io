@@ -1,1 +1,12 @@
-h1 {color:#426493;}
+h1 {
+  background-color: #426493;
+  color:#426493;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+  
+p {
+  color: #ff7f50;
+}
